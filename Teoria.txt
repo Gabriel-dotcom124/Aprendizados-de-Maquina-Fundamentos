@@ -1,0 +1,36 @@
+1.2. Aprendizado de Máquina
+O aprendizado de máquina é uma área que busca treinar modelos matemáticos preditivos utilizando dados e técnicas estatísticas e computacionais. Por treinar, entenda, selecionar os melhores parâmetros (ou coeficientes) de uma equação matemática para o conjunto de dados em questão. No exemplo da motivação, utilizariamos técnicas de aprendizado de máquina para definir os coeficientes a e b da equação para os dados de peso e altura.
+
+O treino de um modelo (geralmente) segue os seguintes passos:
+
+Preparação:
+Seleção da equação para o problema (modelo);
+Seleção dos dados disponíveis (atributos);
+Separação dos dados em treino e validação.
+Treino:
+Treino do modelo com os dados de treino (algoritmo);
+Validação do modelo com os dados de validação (métricas).
+Predição.
+Para o exemplo da motivação:
+
+Preparação:
+y=f(x)=ax+b;
+Peso e altura;
+Separação em dos dados em treino e validação.
+Treino:
+Algoritmo;
+Métricas.
+Predição.
+1.3. Tipos de Aprendizado
+O tipo de aprendizado se dá pelo dado disponível e pelo tipo da resposta esperada da predição.
+
+Se existe uma variável resposta, ou seja, uma atributo a ser predito, então temos o aprendizado supervisionado. Dentro deste aprendizado, se a predição é numérica, temos uma regressão, já se está for um conjunto de opções (que podem ser numéricas) temos uma classificação.
+
+Exemplo: Predizer o score de crédito (980, 730, etc.) dado o salário e o gasto mensal médio de cartão de crédito, temos é uma regressão.
+
+Exemplo: Predizer a categoria do score de crédito (A, B, C, etc.) dado o salário e o gasto mensal médio de cartão de crédito, temos é uma classificação.
+
+Se não existe uma variável resposta, ou seja, uma atributo a ser predito, então temos o aprendizado não supervisionado. Dentro deste aprendizado, se a predição busca agrupar elementos comuns, temos um agrupamento.
+
+Exemplo: Encontrar clientes com perfil de consumo em comum dado o salário e o gasto mensal médio de cartão de crédito, temos é uma agrupamento.
+
