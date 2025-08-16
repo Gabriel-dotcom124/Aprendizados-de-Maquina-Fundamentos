@@ -1,0 +1,11 @@
+ethnicity,parental_education,lunch,preparation_course,math,reading,writing,gender
+group B,bachelor's degree,standard,none,0.72,0.72,0.74,F
+group C,some college,standard,completed,0.69,0.9,0.88,F
+group B,master's degree,standard,none,0.9,0.95,0.93,F
+group A,associate's degree,free/reduced,none,0.47,0.57,0.44,M
+group C,some college,standard,none,0.76,0.78,0.75,M
+group B,associate's degree,standard,none,0.71,0.83,0.78,F
+group B,some college,standard,completed,0.88,0.95,0.92,F
+group B,some college,free/reduced,none,0.4,0.43,0.39,M
+group D,high school,free/reduced,completed,0.64,0.64,0.67,M
+group B,high school,free/reduced,none,0.38,0.6,0.5,F
