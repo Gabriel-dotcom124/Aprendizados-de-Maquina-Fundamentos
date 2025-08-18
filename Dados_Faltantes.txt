@@ -1,0 +1,17 @@
+1. Dados faltantes
+
+* Tecnicas
+
+• Atributo como variável resposta: descartar; Atributo categórico: descartar;
+
+• Atributo numérico: descartar ou preencher com a média/mediana.
+
+    
+    * Outros Problemas
+
+
+• Dados redundantes: descartar;
+
+• Dados desbalanceados: pesos;
+
+• Outliers: descartar (caso seja não relevante) etc.
